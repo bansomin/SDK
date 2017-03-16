@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dict>
+  <key>back</key>
+  <string>返回</string>
+  
+  <key>exit</key>
+  <string>退出</string>
+  
+  <key>social</key>
+  <string>社交</string>
+  
+  <key>share</key>
+  <string>分享</string>
+  
+  <key>user</key>
+  <string>用户系统</string>
+  
+  <key>shareSys</key>
+  <string>分享系统</string>
+  
+  <key>adsSys</key>
+  <string>广告系统</string>
+  
+  <key>recSys</key>
+  <string>录屏系统</string>
+  
+  <key>recCheck</key>
+  <string>录屏检测</string>
+
+  <key>recStatus</key>
+  <string>录制状态</string>
+
+  <key>recStart</key>
+  <string>开始录制</string>
+
+  <key>recEnd</key>
+  <string>结束录制</string>
+
+  <key>recPause</key>
+  <string>暂停录制</string>
+
+  <key>recResume</key>
+  <string>恢复录制</string>
+
+  <key>recShowBar</key>
+  <string>显示工具条</string>
+
+  <key>recHideBar</key>
+  <string>隐藏工具条</string>
+
+  <key>recShowCenter</key>
+  <string>显示视频中心</string>
+
+  <key>recHideCenter</key>
+  <string>隐藏视频中心</string>
+
+  <key>recSet</key>
+  <string>设置视频数据</string>
+  
+  <key>info</key>
+  <string>信息</string>
+  
+  <key>submit</key>
+  <string>提交</string>
+  
+  <key>rank</key>
+  <string>排行榜</string>
+  
+  <key>unlock</key>
+  <string>解锁成功</string>
+  
+  <key>ach</key>
+  <string>成就</string>
+  
+  <key>login</key>
+  <string>登陆</string>
+  
+  <key>logout</key>
+  <string>登出</string>
+  
+  <key>switch</key>
+  <string>切换账号</string>
+  
+  <key>platform</key>
+  <string>平台中心</string>
+  
+  <key>ppause</key>
+  <string>渠道暂停</string>
+  
+  <key>pexit</key>
+  <string>渠道退出</string>
+  
+  <key>showBar</key>
+  <string>显示按钮</string>
+  
+  <key>hideBar</key>
+  <string>隐藏按钮</string>
+  
+</dict>
